@@ -29,3 +29,14 @@ I explored the fundamentals of Base's architecture, transaction flow, and how Et
 Every day I gain a deeper understanding of how Base is shaping the future of onchain innovation, and I'm excited to continue learning and building.
 
 **#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 3 – Learning Base Development 🚀
+
+Today I explored more about building on Base and how developers can create scalable onchain applications using Base's developer tools and documentation.
+
+I learned about the importance of GitHub for tracking progress, collaborating with other builders, and maintaining open-source projects. I also continued improving my understanding of Base's ecosystem and development workflow.
+
+Every day brings new knowledge, and I'm excited to keep building, learning, and contributing to the future of onchain innovation.
+
+**#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
