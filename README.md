@@ -40,3 +40,14 @@ I learned about the importance of GitHub for tracking progress, collaborating wi
 Every day brings new knowledge, and I'm excited to keep building, learning, and contributing to the future of onchain innovation.
 
 **#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 4 – Understanding Onchain Development 🌐
+
+Today I continued learning about the Base ecosystem and explored the fundamentals of onchain development. I learned how smart contracts, wallets, and decentralized applications (dApps) work together to create secure and transparent blockchain experiences.
+
+I also spent time understanding the developer workflow, the importance of GitHub for version control, and how continuous learning helps build better Web3 applications.
+
+Every day I gain more confidence in building on Base, and I'm motivated to keep learning, experimenting, and contributing to the onchain future.
+
+**#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
