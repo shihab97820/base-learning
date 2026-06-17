@@ -51,3 +51,14 @@ I also spent time understanding the developer workflow, the importance of GitHub
 Every day I gain more confidence in building on Base, and I'm motivated to keep learning, experimenting, and contributing to the onchain future.
 
 **#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 5 – Base Builders & Onchain Development 🚀
+
+Today I explored how developers build applications on Base and why it has become one of the fastest-growing ecosystems for onchain innovation.
+
+I learned that Base provides powerful developer tools, smart contract support through the OP Stack, and seamless compatibility with Ethereum. The ecosystem also offers grants, educational resources, and a supportive community that encourages builders to create scalable decentralized applications.
+
+As I continue this journey, I'm gaining a clearer understanding of how Base empowers developers to bring real-world ideas onchain while keeping transactions fast, secure, and affordable.
+
+**#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
