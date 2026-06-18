@@ -62,3 +62,14 @@ I learned that Base provides powerful developer tools, smart contract support th
 As I continue this journey, I'm gaining a clearer understanding of how Base empowers developers to bring real-world ideas onchain while keeping transactions fast, secure, and affordable.
 
 **#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 6 – Exploring Base Bridge 🌉
+
+Today's learning focused on understanding how assets move between Ethereum and Base through the Base Bridge.
+
+I learned that the Base Bridge enables users to transfer ETH and supported tokens from Ethereum to Base securely. Bridging allows users to access Base's low-cost, high-speed ecosystem while maintaining Ethereum's security. It plays a key role in helping users interact with decentralized applications, DeFi protocols, NFTs, and other onchain services built on Base.
+
+Understanding the bridging process gave me a better perspective on how users enter the Base ecosystem and why seamless interoperability is essential for scaling Web3 adoption.
+
+**#Base #BuildOnBase #BaseBridge #Onchain #Ethereum #Web3 #100DaysOfBase**
