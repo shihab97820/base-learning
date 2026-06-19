@@ -73,3 +73,14 @@ I learned that the Base Bridge enables users to transfer ETH and supported token
 Understanding the bridging process gave me a better perspective on how users enter the Base ecosystem and why seamless interoperability is essential for scaling Web3 adoption.
 
 **#Base #BuildOnBase #BaseBridge #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 7 – Understanding Gas Fees on Base ⛽
+
+Today's learning focused on how gas fees work on Base and why transactions are significantly cheaper compared to Ethereum mainnet.
+
+I learned that every transaction on Base requires a small gas fee to execute operations on the network. Since Base is a Layer 2 built on the OP Stack, it processes transactions efficiently and then posts transaction data to Ethereum, allowing users to benefit from lower costs while still inheriting Ethereum's security.
+
+Understanding the role of gas fees helped me appreciate why Base is an ideal network for everyday onchain activities such as DeFi, NFT trading, gaming, and payments. Low transaction costs make blockchain applications more accessible to both developers and users.
+
+**#Base #BuildOnBase #GasFees #Layer2 #Ethereum #Web3 #100DaysOfBase**
