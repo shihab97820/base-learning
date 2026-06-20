@@ -84,3 +84,14 @@ I learned that every transaction on Base requires a small gas fee to execute ope
 Understanding the role of gas fees helped me appreciate why Base is an ideal network for everyday onchain activities such as DeFi, NFT trading, gaming, and payments. Low transaction costs make blockchain applications more accessible to both developers and users.
 
 **#Base #BuildOnBase #GasFees #Layer2 #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 8 – Exploring the Base Ecosystem 🌐
+
+Today's learning focused on discovering the diverse ecosystem that is growing on Base and how it supports users, developers, and creators.
+
+I explored the different categories of applications built on Base, including decentralized finance (DeFi), NFT marketplaces, gaming, social platforms, wallets, and developer tools. The ecosystem continues to expand with projects that make onchain experiences faster, more affordable, and easier to access.
+
+Learning about the wide range of applications on Base helped me understand that a blockchain is more than just a network—it's an ecosystem where innovation happens through collaboration between builders and communities.
+
+**#Base #BuildOnBase #BaseEcosystem #Onchain #Ethereum #Web3 #100DaysOfBase**
