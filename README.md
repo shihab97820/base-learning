@@ -95,3 +95,14 @@ I explored the different categories of applications built on Base, including dec
 Learning about the wide range of applications on Base helped me understand that a blockchain is more than just a network—it's an ecosystem where innovation happens through collaboration between builders and communities.
 
 **#Base #BuildOnBase #BaseEcosystem #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 9 – Why Base is Built on the OP Stack 🛠️
+
+Today's learning focused on the OP Stack, the open-source technology that powers Base.
+
+I learned that the OP Stack provides the foundation for building scalable and secure Layer 2 networks. By leveraging this modular framework, Base benefits from lower transaction costs, faster confirmations, and seamless compatibility with Ethereum. The OP Stack also allows developers to build and deploy applications using familiar Ethereum tools while contributing to a broader vision of interoperable rollups.
+
+Understanding the OP Stack helped me realize that Base is more than just a Layer 2—it is part of a larger ecosystem working toward a more scalable, efficient, and accessible future for Web3.
+
+**#Base #BuildOnBase #OPStack #Layer2 #Ethereum #Web3 #100DaysOfBase**
