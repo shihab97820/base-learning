@@ -106,3 +106,14 @@ I learned that the OP Stack provides the foundation for building scalable and se
 Understanding the OP Stack helped me realize that Base is more than just a Layer 2—it is part of a larger ecosystem working toward a more scalable, efficient, and accessible future for Web3.
 
 **#Base #BuildOnBase #OPStack #Layer2 #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 10 – Understanding Onchain Identity 🆔
+
+Today's learning focused on the importance of onchain identity and how it enhances the user experience within the Base ecosystem.
+
+I learned that an onchain identity allows users to build a verifiable digital presence through their wallet activity, achievements, and interactions with decentralized applications. Instead of relying on traditional accounts, users can own and control their identity while maintaining transparency and interoperability across different Web3 platforms.
+
+Exploring this concept helped me understand that onchain identity is becoming a key building block for the future of decentralized communities, reputation systems, and personalized onchain experiences.
+
+**#Base #BuildOnBase #OnchainIdentity #Web3 #Ethereum #Layer2 #100DaysOfBase**
