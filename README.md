@@ -117,3 +117,14 @@ I learned that an onchain identity allows users to build a verifiable digital pr
 Exploring this concept helped me understand that onchain identity is becoming a key building block for the future of decentralized communities, reputation systems, and personalized onchain experiences.
 
 **#Base #BuildOnBase #OnchainIdentity #Web3 #Ethereum #Layer2 #100DaysOfBase**
+
+
+## Day 11 – Exploring Decentralized Finance (DeFi) on Base 💸
+
+Today's learning focused on the growing Decentralized Finance (DeFi) ecosystem on Base and how it makes financial services more accessible.
+
+I explored how users can lend, borrow, swap, and provide liquidity through decentralized applications without relying on traditional financial institutions. Thanks to Base's low transaction fees and fast confirmations, DeFi activities become more efficient and affordable, allowing users to interact with protocols seamlessly.
+
+Learning about DeFi on Base helped me understand how Layer 2 technology is making decentralized finance more practical for everyday users while supporting a new generation of open and permissionless financial applications.
+
+**#Base #BuildOnBase #DeFi #Layer2 #Ethereum #Web3 #100DaysOfBase**
