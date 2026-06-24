@@ -128,3 +128,14 @@ I explored how users can lend, borrow, swap, and provide liquidity through decen
 Learning about DeFi on Base helped me understand how Layer 2 technology is making decentralized finance more practical for everyday users while supporting a new generation of open and permissionless financial applications.
 
 **#Base #BuildOnBase #DeFi #Layer2 #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 12 – Learning About Smart Wallets on Base 👛
+
+Today's learning focused on Smart Wallets and how they improve the onboarding experience for users on Base.
+
+I learned that Smart Wallets simplify Web3 by reducing the complexity of traditional crypto wallets. Features like seamless account creation, flexible authentication, transaction sponsorship, and improved security make it easier for both new and experienced users to interact with decentralized applications.
+
+Exploring Smart Wallets helped me understand how Base is lowering the barriers to Web3 adoption. By making wallets more intuitive and user-friendly, Base enables developers to build applications that feel as seamless as modern Web2 experiences while preserving the benefits of decentralization.
+
+**#Base #BuildOnBase #SmartWallet #Onchain #Ethereum #Web3 #100DaysOfBase**
