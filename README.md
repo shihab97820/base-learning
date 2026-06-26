@@ -139,3 +139,14 @@ I learned that Smart Wallets simplify Web3 by reducing the complexity of traditi
 Exploring Smart Wallets helped me understand how Base is lowering the barriers to Web3 adoption. By making wallets more intuitive and user-friendly, Base enables developers to build applications that feel as seamless as modern Web2 experiences while preserving the benefits of decentralization.
 
 **#Base #BuildOnBase #SmartWallet #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 13 – Exploring Base Developer Tools 🛠️
+
+Today's learning focused on the developer tools that make building on Base efficient and accessible.
+
+I explored the essential tools developers use to build, test, and deploy decentralized applications on Base. Since Base is fully EVM-compatible, developers can use popular frameworks like Hardhat, Foundry, and Remix, along with libraries such as ethers.js and viem. These tools simplify smart contract development, debugging, and deployment while providing a familiar workflow for Ethereum developers.
+
+Learning about the Base developer toolkit gave me a better understanding of how the ecosystem supports builders with modern infrastructure, making it easier to create scalable and secure onchain applications.
+
+**#Base #BuildOnBase #DeveloperTools #SmartContracts #Ethereum #Web3 #100DaysOfBase**
