@@ -150,3 +150,14 @@ I explored the essential tools developers use to build, test, and deploy decentr
 Learning about the Base developer toolkit gave me a better understanding of how the ecosystem supports builders with modern infrastructure, making it easier to create scalable and secure onchain applications.
 
 **#Base #BuildOnBase #DeveloperTools #SmartContracts #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 14 – Understanding Stablecoins on Base 💵
+
+Today's learning focused on the role of stablecoins within the Base ecosystem and why they are essential for everyday onchain activity.
+
+I explored how stablecoins maintain a value pegged to fiat currencies, making them a reliable medium for payments, trading, and decentralized finance. On Base, users can transfer stablecoins quickly and at a fraction of the cost compared to many other networks. This combination of low fees and fast settlement makes stablecoins practical for both individuals and businesses.
+
+Learning about stablecoins helped me understand how they bridge traditional finance and Web3, enabling more efficient transactions while supporting the growth of a global onchain economy.
+
+**#Base #BuildOnBase #Stablecoins #Onchain #Ethereum #Web3 #100DaysOfBase**
