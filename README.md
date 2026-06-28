@@ -161,3 +161,14 @@ I explored how stablecoins maintain a value pegged to fiat currencies, making th
 Learning about stablecoins helped me understand how they bridge traditional finance and Web3, enabling more efficient transactions while supporting the growth of a global onchain economy.
 
 **#Base #BuildOnBase #Stablecoins #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+
+## Day 15 – Exploring NFTs on Base 🎨
+
+Today's learning focused on Non-Fungible Tokens (NFTs) and their growing role within the Base ecosystem.
+
+I learned that NFTs represent unique digital assets stored on the blockchain, allowing creators and collectors to verify ownership transparently. Thanks to Base's low transaction fees and high-speed infrastructure, minting, trading, and transferring NFTs has become more affordable and accessible. Beyond digital art, NFTs are also being used for gaming assets, memberships, event tickets, and onchain identities.
+
+Exploring NFTs on Base helped me understand that they are more than collectibles—they are programmable digital assets that unlock new possibilities for creators, communities, and decentralized applications.
+
+**#Base #BuildOnBase #NFTs #Onchain #Ethereum #Web3 #100DaysOfBase**
