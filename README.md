@@ -172,3 +172,13 @@ I learned that NFTs represent unique digital assets stored on the blockchain, al
 Exploring NFTs on Base helped me understand that they are more than collectibles—they are programmable digital assets that unlock new possibilities for creators, communities, and decentralized applications.
 
 **#Base #BuildOnBase #NFTs #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+## Day 16 – Understanding Account Abstraction on Base 🔐
+
+Today's learning focused on Account Abstraction and how it improves the user experience on Base.
+
+I learned that Account Abstraction allows blockchain accounts to become more flexible and programmable. Instead of relying solely on traditional externally owned accounts (EOAs), users can benefit from smart accounts that support features like gas sponsorship, batch transactions, social recovery, and customizable security rules. These improvements make interacting with decentralized applications simpler and more user-friendly.
+
+Exploring Account Abstraction helped me understand how Base is making Web3 more accessible by reducing friction while maintaining security and decentralization. It represents an important step toward bringing millions of new users onchain.
+
+**#Base #BuildOnBase #AccountAbstraction #Onchain #Ethereum #Web3 #100DaysOfBase**
