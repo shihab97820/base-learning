@@ -182,3 +182,13 @@ I learned that Account Abstraction allows blockchain accounts to become more fle
 Exploring Account Abstraction helped me understand how Base is making Web3 more accessible by reducing friction while maintaining security and decentralization. It represents an important step toward bringing millions of new users onchain.
 
 **#Base #BuildOnBase #AccountAbstraction #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+## Day 17 – Learning About Onchain Payments on Base 💳
+
+Today's learning focused on how Base enables fast, low-cost, and efficient onchain payments for individuals and businesses.
+
+I explored how users can send and receive digital assets within seconds while paying significantly lower transaction fees compared to many other blockchain networks. Base's scalable Layer 2 infrastructure makes micropayments, cross-border transfers, merchant payments, and peer-to-peer transactions more practical without compromising Ethereum's security.
+
+Learning about onchain payments helped me understand how Base is transforming blockchain from a technology used mainly for trading into a real-world payment network. As adoption grows, fast and affordable onchain transactions will play an important role in bringing everyday financial activity to Web3.
+
+**#Base #BuildOnBase #OnchainPayments #Layer2 #Ethereum #Web3 #100DaysOfBase**
