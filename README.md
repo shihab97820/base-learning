@@ -192,3 +192,13 @@ I explored how users can send and receive digital assets within seconds while pa
 Learning about onchain payments helped me understand how Base is transforming blockchain from a technology used mainly for trading into a real-world payment network. As adoption grows, fast and affordable onchain transactions will play an important role in bringing everyday financial activity to Web3.
 
 **#Base #BuildOnBase #OnchainPayments #Layer2 #Ethereum #Web3 #100DaysOfBase**
+
+## Day 18 – Exploring Onchain Gaming on Base 🎮
+
+Today's learning focused on how Base is creating a strong foundation for the next generation of onchain games.
+
+I learned that Base enables developers to build blockchain-powered games with fast transaction speeds and low fees, making gameplay smoother and more accessible. Players can truly own their in-game assets, trade them freely, and participate in game economies powered by smart contracts. This approach gives users greater control over their digital items while opening new opportunities for developers to create innovative gaming experiences.
+
+Exploring onchain gaming helped me understand that Base is more than a scaling solution—it's an ecosystem where gaming, digital ownership, and decentralized technology come together to shape the future of interactive entertainment.
+
+**#Base #BuildOnBase #OnchainGaming #Gaming #Ethereum #Web3 #100DaysOfBase**
