@@ -212,3 +212,13 @@ I explored how Base supports developers, creators, and entrepreneurs through hac
 Learning about the Base builder community made me realize that successful ecosystems are built not only on technology but also on the people who continuously create, share knowledge, and support one another. Collaboration is one of the key forces behind Base's rapid growth.
 
 **#Base #BuildOnBase #BuilderCommunity #Onchain #Ethereum #Web3 #100DaysOfBase**
+
+## Day 20 – Understanding Base's Security Model 🛡️
+
+Today's learning focused on the security architecture that makes Base a reliable Layer 2 network.
+
+I learned that Base inherits the security of Ethereum by settling transactions on the Ethereum mainnet while processing them efficiently on Layer 2. This approach combines Ethereum's trusted infrastructure with lower fees and faster transaction speeds. The use of the OP Stack, continuous monitoring, and a robust developer ecosystem further strengthens the network, helping users and builders interact with confidence.
+
+Understanding Base's security model gave me a deeper appreciation for how scalability and security can work together. A secure foundation is essential for developers building applications and for users trusting the network with their digital assets.
+
+**#Base #BuildOnBase #Security #Layer2 #Ethereum #Web3 #100DaysOfBase**
