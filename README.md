@@ -222,3 +222,13 @@ I learned that Base inherits the security of Ethereum by settling transactions o
 Understanding Base's security model gave me a deeper appreciation for how scalability and security can work together. A secure foundation is essential for developers building applications and for users trusting the network with their digital assets.
 
 **#Base #BuildOnBase #Security #Layer2 #Ethereum #Web3 #100DaysOfBase**
+
+## Day 21 – Understanding the Base Sequencer ⚙️
+
+Today's learning focused on the role of the sequencer and how transactions are processed efficiently on Base.
+
+I learned that the sequencer receives user transactions, orders them, and produces Layer 2 blocks. This allows Base to provide fast transaction confirmations and a smooth user experience while transaction data is ultimately anchored to Ethereum. The sequencer plays an important role in making Layer 2 applications responsive and practical for everyday use.
+
+Understanding the transaction flow helped me see how Base combines speed at the execution layer with the security and settlement guarantees of Ethereum.
+
+**#Base #BuildOnBase #Sequencer #Layer2 #Ethereum #Web3 #100DaysOfBase**
