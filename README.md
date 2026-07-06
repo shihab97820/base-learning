@@ -232,3 +232,13 @@ I learned that the sequencer receives user transactions, orders them, and produc
 Understanding the transaction flow helped me see how Base combines speed at the execution layer with the security and settlement guarantees of Ethereum.
 
 **#Base #BuildOnBase #Sequencer #Layer2 #Ethereum #Web3 #100DaysOfBase**
+
+## Day 22 – Exploring Optimistic Rollups 🔵
+
+Today's learning focused on Optimistic Rollups and how they help Base scale Ethereum.
+
+I learned that Optimistic Rollups execute transactions outside Ethereum's main execution layer and publish the necessary data back to Ethereum. This design allows many transactions to be processed more efficiently while reducing costs for users. The system is designed around Ethereum settlement and mechanisms for verifying the correctness of Layer 2 state.
+
+Learning about Optimistic Rollups helped me understand how Layer 2 networks can improve blockchain scalability without creating an entirely separate security foundation.
+
+**#Base #BuildOnBase #OptimisticRollups #Layer2 #Ethereum #Web3 #100DaysOfBase**
