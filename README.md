@@ -242,3 +242,13 @@ I learned that Optimistic Rollups execute transactions outside Ethereum's main e
 Learning about Optimistic Rollups helped me understand how Layer 2 networks can improve blockchain scalability without creating an entirely separate security foundation.
 
 **#Base #BuildOnBase #OptimisticRollups #Layer2 #Ethereum #Web3 #100DaysOfBase**
+
+## Day 23 – Understanding Base Block Explorers 🔍
+
+Today's learning focused on how block explorers provide transparency into activity happening on Base.
+
+I explored how users and developers can inspect wallet addresses, transactions, smart contracts, token transfers, gas usage, and block information. Block explorers make blockchain data easier to understand and are especially useful when checking transaction status or debugging smart contract interactions.
+
+Learning to read onchain data is an important skill because blockchains are transparent systems. Understanding explorers makes it easier to verify activity instead of depending only on information shown inside an application.
+
+**#Base #BuildOnBase #BlockExplorer #OnchainData #Ethereum #Web3 #100DaysOfBase**
