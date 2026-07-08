@@ -252,3 +252,13 @@ I explored how users and developers can inspect wallet addresses, transactions, 
 Learning to read onchain data is an important skill because blockchains are transparent systems. Understanding explorers makes it easier to verify activity instead of depending only on information shown inside an application.
 
 **#Base #BuildOnBase #BlockExplorer #OnchainData #Ethereum #Web3 #100DaysOfBase**
+
+## Day 24 – Learning About RPC Nodes on Base 🌐
+
+Today's learning focused on RPC nodes and how applications communicate with the Base network.
+
+I learned that an RPC endpoint acts as a connection between an application and the blockchain. Developers use RPC calls to read wallet balances, retrieve block data, estimate gas, send transactions, and interact with smart contracts. Without reliable blockchain access, even a well-designed application cannot provide a smooth user experience.
+
+Understanding RPC infrastructure helped me see the important connection between frontend applications and onchain systems. Reliable infrastructure is one of the foundations of scalable Web3 applications.
+
+**#Base #BuildOnBase #RPC #BlockchainInfrastructure #Ethereum #Web3 #100DaysOfBase**
