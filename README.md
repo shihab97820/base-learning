@@ -262,3 +262,13 @@ I learned that an RPC endpoint acts as a connection between an application and t
 Understanding RPC infrastructure helped me see the important connection between frontend applications and onchain systems. Reliable infrastructure is one of the foundations of scalable Web3 applications.
 
 **#Base #BuildOnBase #RPC #BlockchainInfrastructure #Ethereum #Web3 #100DaysOfBase**
+
+## Day 25 – Exploring Token Standards on Base 🪙
+
+Today's learning focused on the token standards developers can use when building applications on Base.
+
+I learned how standards such as ERC-20 and ERC-721 provide common rules for fungible tokens and unique digital assets. Standardization allows wallets, marketplaces, exchanges, and decentralized applications to interact with assets in predictable ways.
+
+Exploring token standards helped me understand the importance of interoperability in Web3. Shared technical standards allow different applications to connect and create a much larger ecosystem of composable onchain products.
+
+**#Base #BuildOnBase #TokenStandards #ERC20 #Ethereum #Web3 #100DaysOfBase**
