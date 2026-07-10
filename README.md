@@ -272,3 +272,13 @@ I learned how standards such as ERC-20 and ERC-721 provide common rules for fung
 Exploring token standards helped me understand the importance of interoperability in Web3. Shared technical standards allow different applications to connect and create a much larger ecosystem of composable onchain products.
 
 **#Base #BuildOnBase #TokenStandards #ERC20 #Ethereum #Web3 #100DaysOfBase**
+
+## Day 26 – Understanding Liquidity on Base 💧
+
+Today's learning focused on liquidity and why it is essential for decentralized markets on Base.
+
+I learned that liquidity enables users to trade assets more efficiently through decentralized exchanges and other DeFi applications. Liquidity providers contribute assets to pools that support trading activity, while smart contracts manage swaps according to the protocol's rules.
+
+Understanding liquidity helped me see why healthy markets need more than tokens and users. Deep and efficient liquidity infrastructure is essential for building useful decentralized financial applications.
+
+**#Base #BuildOnBase #Liquidity #DeFi #Ethereum #Web3 #100DaysOfBase**
