@@ -282,3 +282,13 @@ I learned that liquidity enables users to trade assets more efficiently through 
 Understanding liquidity helped me see why healthy markets need more than tokens and users. Deep and efficient liquidity infrastructure is essential for building useful decentralized financial applications.
 
 **#Base #BuildOnBase #Liquidity #DeFi #Ethereum #Web3 #100DaysOfBase**
+
+## Day 27 – Exploring Decentralized Exchanges on Base 🔄
+
+Today's learning focused on how decentralized exchanges enable permissionless token trading on Base.
+
+I explored how DEXs use smart contracts and liquidity pools to allow users to swap digital assets directly from their wallets. Base's low transaction costs and fast confirmations can make frequent onchain interactions more practical compared with higher-cost environments.
+
+Learning about decentralized exchanges helped me understand how smart contracts can create open financial markets where users maintain control of their assets while interacting directly with onchain protocols.
+
+**#Base #BuildOnBase #DEX #DeFi #Onchain #Web3 #100DaysOfBase**
