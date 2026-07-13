@@ -291,4 +291,4 @@ I explored how DEXs use smart contracts and liquidity pools to allow users to sw
 
 Learning about decentralized exchanges helped me understand how smart contracts can create open financial markets where users maintain control of their assets while interacting directly with onchain protocols.
 
-**#Base #BuildOnBase #DEX #DeFi #Onchain #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #DEX #DeFi #Onchain #Web3 #100DaysOfBase** based
