@@ -1,4 +1,4 @@
-# Base Learning Journal
+# Base Learning Journal too
 
 This repository documents my daily learning journey about the Base ecosystem.
 
