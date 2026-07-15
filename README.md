@@ -1,4 +1,4 @@
-# Base Learning Journal too
+# Base Learning Journal too early
 
 This repository documents my daily learning journey about the Base ecosystem.
 
