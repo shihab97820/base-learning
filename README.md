@@ -292,3 +292,13 @@ I explored how DEXs use smart contracts and liquidity pools to allow users to sw
 Learning about decentralized exchanges helped me understand how smart contracts can create open financial markets where users maintain control of their assets while interacting directly with onchain protocols.
 
 **#Base #BuildOnBase #DEX #DeFi #Onchain #Web3 #100DaysOfBase** based
+
+## Day 28 – Learning About Lending and Borrowing 📊
+
+Today's learning focused on decentralized lending and borrowing protocols within the Base ecosystem.
+
+I learned that DeFi lending markets allow users to supply assets to earn yield or borrow against eligible collateral through smart contracts. Interest rates and risk parameters are managed according to each protocol's design, creating transparent financial markets that operate onchain.
+
+Exploring lending protocols helped me understand how traditional financial services can be redesigned using open blockchain infrastructure and programmable smart contracts.
+
+**#Base #BuildOnBase #Lending #DeFi #OnchainFinance #Web3 #100DaysOfBase**
