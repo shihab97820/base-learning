@@ -302,3 +302,13 @@ I learned that DeFi lending markets allow users to supply assets to earn yield o
 Exploring lending protocols helped me understand how traditional financial services can be redesigned using open blockchain infrastructure and programmable smart contracts.
 
 **#Base #BuildOnBase #Lending #DeFi #OnchainFinance #Web3 #100DaysOfBase**
+
+## Day 29 – Understanding Oracles on Base 🔮
+
+Today's learning focused on blockchain oracles and why smart contracts need reliable external data.
+
+I learned that blockchains cannot automatically access every piece of information from outside their own network. Oracles help deliver data such as asset prices and other external information to smart contracts. Many DeFi applications depend on accurate data to perform critical operations.
+
+Understanding oracles helped me realize that reliable data infrastructure is essential for connecting blockchain applications with information from the wider world.
+
+**#Base #BuildOnBase #Oracles #SmartContracts #BlockchainData #Web3 #100DaysOfBase**
