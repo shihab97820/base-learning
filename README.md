@@ -4,7 +4,7 @@ This repository documents my daily learning journey about the Base ecosystem.
 
 ---
 
-## Day 1 - June 13, 2026
+## Day 1 - June 13, 2026 date
 
 ### Topic
 Introduction to Base
