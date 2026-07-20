@@ -312,3 +312,13 @@ I learned that blockchains cannot automatically access every piece of informatio
 Understanding oracles helped me realize that reliable data infrastructure is essential for connecting blockchain applications with information from the wider world.
 
 **#Base #BuildOnBase #Oracles #SmartContracts #BlockchainData #Web3 #100DaysOfBase**
+
+## Day 30 – Exploring Social Applications on Base 💬
+
+Today's learning focused on the potential of social applications built with onchain technology.
+
+I explored how blockchain-based social applications can give users greater ownership of their identity, content, connections, and digital assets. Instead of keeping everything inside a closed platform, onchain systems can make parts of a user's social presence portable and composable across applications.
+
+Learning about onchain social experiences helped me understand how Web3 can introduce new relationships between platforms, creators, and communities.
+
+**#Base #BuildOnBase #SocialFi #OnchainSocial #Creators #Web3 #100DaysOfBase**
