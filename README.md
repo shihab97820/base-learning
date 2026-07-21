@@ -322,3 +322,13 @@ I explored how blockchain-based social applications can give users greater owner
 Learning about onchain social experiences helped me understand how Web3 can introduce new relationships between platforms, creators, and communities.
 
 **#Base #BuildOnBase #SocialFi #OnchainSocial #Creators #Web3 #100DaysOfBase**
+
+## Day 32 – Exploring Base Testnet Development 🧪
+
+Today's learning focused on why testnets are important when developing applications for Base.
+
+I learned that developers can test smart contracts and application flows in a test environment before deploying to mainnet. This makes it possible to identify bugs, test integrations, and improve the user experience without putting real assets at risk during early development.
+
+Learning about testnet workflows showed me that careful testing is a critical part of responsible blockchain development.
+
+**#Base #BuildOnBase #Testnet #SmartContracts #Developers #Web3 #100DaysOfBase**
