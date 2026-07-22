@@ -1,4 +1,4 @@
-# Base Learning Journal too early bullish
+# Base Learning Journal too early bullish for
 
 This repository documents my daily learning journey about the Base ecosystem.
 
