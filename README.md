@@ -2,17 +2,13 @@
 
 Today's learning focused on composability and why it is one of the most powerful features of onchain development.
 
-## Day 23 – Understanding Block Explorers on Base 🔍
+### Day 24 – Learning About RPC Nodes on Base 🌐
 
-Today's learning focused on block explorers and how they improve transparency across the Base network.
+Today's learning focused on RPC (Remote Procedure Call) nodes and their role in the Base ecosystem.
 
-I learned that a block explorer allows anyone to view transactions, wallet addresses, smart contracts, token transfers, and block information in real time. This transparency makes it easy to verify onchain activity, monitor transaction status, and better understand how decentralized applications interact with the blockchain.
+I learned that RPC nodes serve as the communication bridge between decentralized applications and the Base blockchain. Whenever a user checks a wallet balance, submits a transaction, or interacts with a smart contract, the application sends requests through an RPC endpoint. Reliable RPC infrastructure ensures that applications remain fast, responsive, and connected to the network.
 
-Exploring block explorers helped me realize that one of blockchain's greatest strengths is its openness. Instead of relying on third parties, users can independently verify network activity and gain deeper insights into the Base ecosystem.
+Understanding RPC nodes helped me realize that they are a critical part of blockchain infrastructure. Without them, wallets and dApps wouldn't be able to read blockchain data or broadcast transactions, making seamless onchain experiences impossible.
 
-**#Base #BuildOnBase #BlockExplorer #Onchain #Ethereum #Web3 #100DaysOfBase**
-The biggest lesson so far is that building an onchain future requires more than blockchain technology alone. It requires strong infrastructure, useful applications, open standards, creative builders, and active communities working together.
-
-40 days completed, and the learning journey continues.
-
+**#Base #BuildOnBase #RPC #BlockchainInfrastructure #Ethereum #Web3 #100DaysOfBase**
 **#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
