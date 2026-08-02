@@ -1,14 +1,14 @@
 ## Day 39 – Understanding Composability on Base 🧩
 
-Today's learning focused on composability and why it is one of the most powerful features of onchain development.
+Toda## Day 25 – Exploring Token Standards on Base 🪙
 
-### Day 24 – Learning About RPC Nodes on Base 🌐
+Today's learning focused on the token standards that power digital assets on the Base network.
 
-Today's learning focused on RPC (Remote Procedure Call) nodes and their role in the Base ecosystem.
+I learned that token standards like ERC-20, ERC-721, and ERC-1155 provide a common framework for creating fungible tokens, NFTs, and multi-token assets. Because Base is fully EVM-compatible, developers can use these established Ethereum standards to build applications that work seamlessly with wallets, marketplaces, and other decentralized services.
 
-I learned that RPC nodes serve as the communication bridge between decentralized applications and the Base blockchain. Whenever a user checks a wallet balance, submits a transaction, or interacts with a smart contract, the application sends requests through an RPC endpoint. Reliable RPC infrastructure ensures that applications remain fast, responsive, and connected to the network.
+Understanding token standards helped me realize how interoperability drives the Web3 ecosystem. By following shared standards, developers can build applications that easily integrate with existing tools, making the user experience more consistent and accessible.
 
-Understanding RPC nodes helped me realize that they are a critical part of blockchain infrastructure. Without them, wallets and dApps wouldn't be able to read blockchain data or broadcast transactions, making seamless onchain experiences impossible.
+**#Base #BuildOnBase #TokenStandards #ERC20 #ERC721 #Ethereum #Web3 #100DaysOfBase**
 
 **#Base #BuildOnBase #RPC #BlockchainInfrastructure #Ethereum #Web3 #100DaysOfBase**
 **#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
