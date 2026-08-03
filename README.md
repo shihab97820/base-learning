@@ -2,13 +2,12 @@
 
 Toda## Day 25 – Exploring Token Standards on Base 🪙
 
-Today's learning focused on the token standards that power digital assets on the Base network.
+Today's ## Day 26 – Understanding Liquidity on Base 💧
 
-I learned that token standards like ERC-20, ERC-721, and ERC-1155 provide a common framework for creating fungible tokens, NFTs, and multi-token assets. Because Base is fully EVM-compatible, developers can use these established Ethereum standards to build applications that work seamlessly with wallets, marketplaces, and other decentralized services.
+Today's learning focused on liquidity and why it is essential for decentralized finance on Base.
 
-Understanding token standards helped me realize how interoperability drives the Web3 ecosystem. By following shared standards, developers can build applications that easily integrate with existing tools, making the user experience more consistent and accessible.
+I learned that liquidity is the availability of digital assets within decentralized protocols, allowing users to trade, swap, lend, and borrow efficiently. Liquidity providers contribute assets to pools, enabling smooth transactions while reducing price slippage. Base's low fees and high-speed transactions make it easier for users to participate in liquidity pools and support a growing DeFi ecosystem.
 
-**#Base #BuildOnBase #TokenStandards #ERC20 #ERC721 #Ethereum #Web3 #100DaysOfBase**
+Understanding liquidity helped me realize that it's one of the core pillars of every successful blockchain economy. Without sufficient liquidity, decentralized applications would struggle to provide efficient and reliable financial services.
 
-**#Base #BuildOnBase #RPC #BlockchainInfrastructure #Ethereum #Web3 #100DaysOfBase**
-**#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #Liquidity #DeFi #Ethereum #Web3 #100DaysOfBase**
