@@ -1,9 +1,9 @@
-## Day 27 – Exploring Decentralized Exchanges on Base 🔄
+## Day 28 – Learning About Lending and Borrowing on Base 🏦
 
-Today's learning focused on Decentralized Exchanges (DEXs) and their role in the Base ecosystem.
+Today's learning focused on decentralized lending and borrowing within the Base ecosystem.
 
-I learned that DEXs allow users to trade digital assets directly from their wallets without relying on a centralized intermediary. Powered by smart contracts and liquidity pools, these platforms enable secure, transparent, and permissionless token swaps. Base's low transaction fees and fast confirmation times make decentralized trading more efficient and accessible for users of all experience levels.
+I learned that DeFi lending protocols allow users to supply digital assets to earn yield or borrow assets by providing collateral, all without relying on traditional financial institutions. Smart contracts automate the entire process, ensuring that transactions are transparent, efficient, and permissionless. Base's low fees and fast transaction speeds make these financial services more accessible to a wider range of users.
 
-Exploring DEXs helped me understand how decentralized finance is reshaping the way people exchange assets. By removing unnecessary intermediaries, Base empowers users to maintain full control of their funds while participating in an open financial ecosystem.
+Understanding decentralized lending and borrowing helped me see how blockchain technology is transforming financial services. By replacing intermediaries with transparent smart contracts, Base enables a more open, efficient, and inclusive financial ecosystem.
 
-**#Base #BuildOnBase #DEX #DeFi #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #DeFi #Lending #Borrowing #Ethereum #Web3 #100DaysOfBase**
