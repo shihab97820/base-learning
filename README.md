@@ -1,9 +1,9 @@
-## Day 28 – Learning About Lending and Borrowing on Base 🏦
+## Day 29 – Understanding Blockchain Oracles 🔮
 
-Today's learning focused on decentralized lending and borrowing within the Base ecosystem.
+Today's learning focused on blockchain oracles and their importance in the Base ecosystem.
 
-I learned that DeFi lending protocols allow users to supply digital assets to earn yield or borrow assets by providing collateral, all without relying on traditional financial institutions. Smart contracts automate the entire process, ensuring that transactions are transparent, efficient, and permissionless. Base's low fees and fast transaction speeds make these financial services more accessible to a wider range of users.
+I learned that smart contracts cannot directly access data from the outside world. Blockchain oracles solve this problem by securely delivering external information—such as asset prices, weather data, or sports results—to onchain applications. Many DeFi protocols, prediction markets, and decentralized applications rely on accurate oracle data to function effectively.
 
-Understanding decentralized lending and borrowing helped me see how blockchain technology is transforming financial services. By replacing intermediaries with transparent smart contracts, Base enables a more open, efficient, and inclusive financial ecosystem.
+Understanding oracles helped me realize that they play a vital role in connecting blockchain networks with real-world information. Without reliable oracles, many advanced Web3 applications wouldn't be possible.
 
-**#Base #BuildOnBase #DeFi #Lending #Borrowing #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #BlockchainOracles #SmartContracts #Ethereum #Web3 #100DaysOfBase**
