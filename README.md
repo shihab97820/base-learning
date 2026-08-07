@@ -1,9 +1,9 @@
-## Day 29 – Understanding Blockchain Oracles 🔮
+## Day 30 – Exploring Onchain Social on Base 👥
 
-Today's learning focused on blockchain oracles and their importance in the Base ecosystem.
+Today's learning focused on onchain social applications and how they're redefining digital interactions on Base.
 
-I learned that smart contracts cannot directly access data from the outside world. Blockchain oracles solve this problem by securely delivering external information—such as asset prices, weather data, or sports results—to onchain applications. Many DeFi protocols, prediction markets, and decentralized applications rely on accurate oracle data to function effectively.
+I learned that onchain social platforms give users greater ownership of their identity, content, and connections. Instead of relying on centralized platforms, users can build portable social profiles linked to their wallets, allowing their reputation and achievements to move across different applications. Base's fast and affordable transactions make these experiences more practical for everyday use.
 
-Understanding oracles helped me realize that they play a vital role in connecting blockchain networks with real-world information. Without reliable oracles, many advanced Web3 applications wouldn't be possible.
+Exploring onchain social helped me understand that Web3 is about more than finance. It's also creating a new internet where users have greater control over their digital presence, data, and communities.
 
-**#Base #BuildOnBase #BlockchainOracles #SmartContracts #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #OnchainSocial #SocialFi #Ethereum #Web3 #100DaysOfBase**
