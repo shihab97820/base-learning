@@ -1,9 +1,9 @@
-## Day 30 – Exploring Onchain Social on Base 👥
+## Day 31 – Understanding Smart Contract Events 📡
 
-Today's learning focused on onchain social applications and how they're redefining digital interactions on Base.
+Today's learning focused on smart contract events and how they help applications track activity on the Base network.
 
-I learned that onchain social platforms give users greater ownership of their identity, content, and connections. Instead of relying on centralized platforms, users can build portable social profiles linked to their wallets, allowing their reputation and achievements to move across different applications. Base's fast and affordable transactions make these experiences more practical for everyday use.
+I learned that smart contracts can emit events whenever important actions take place, such as token transfers, swaps, deposits, withdrawals, or NFT mints. These events are recorded in transaction logs and can be read by applications, analytics platforms, and blockchain explorers.
 
-Exploring onchain social helped me understand that Web3 is about more than finance. It's also creating a new internet where users have greater control over their digital presence, data, and communities.
+Understanding smart contract events helped me see how onchain applications turn blockchain activity into useful information. They are an important part of building responsive dApps and monitoring what happens inside smart contracts.
 
-**#Base #BuildOnBase #OnchainSocial #SocialFi #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #SmartContracts #BlockchainEvents #Onchain #Ethereum #Web3 #100DaysOfBase**
