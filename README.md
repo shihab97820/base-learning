@@ -1,4 +1,4 @@
-## Day 32 – Exploring Base Testnets 🧪 bullish
+## Day 32 – Exploring Base Testnets 🧪 bullish on nft
 
 Today's learning focused on testnets and why they are important for developing applications on Base. soon
 
