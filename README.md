@@ -1,10 +1,11 @@
-## Day 34 – Exploring Cross-Chain Interoperability 🌉
+## Day 35 – Exploring Onchain Creator Economies 🎨
 
-Today's learning focused on cross-chain interoperability and how different blockchain networks can communicate with each other.
+Today's learning focused on how Base can support creators through onchain tools and digital ownership.
 
-I learned that interoperability allows assets and information to move between different blockchain ecosystems through bridges, messaging protocols, and other cross-chain infrastructure. This makes it possible for users and developers to access applications and services across multiple networks instead of being limited to a single blockchain.
+I learned that creators can use blockchain technology to build new types of digital experiences, including memberships, collectibles, rewards, and community-based products. Smart contracts can help creators establish transparent ownership and create more direct relationships with their audiences.
 
-Understanding interoperability helped me realize that the future of Web3 will likely be more connected. As different networks become easier and safer to communicate with, users can experience a more open and unified blockchain ecosystem.
+Exploring the creator economy helped me understand that Web3 is not only about finance. Base can also provide infrastructure for artists, content creators, communities, and entrepreneurs to experiment with new ways of creating and distributing digital value.
 
-**#Base #BuildOnBase #Interoperability #CrossChain #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #CreatorEconomy #Onchain #DigitalOwnership #Web3 #100DaysOfBase**
+
 
