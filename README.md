@@ -1,11 +1,10 @@
-## Day 35 – Exploring Onchain Creator Economies 🎨
+## Day 36 – Understanding Transaction Finality ⏱️
 
-Today's learning focused on how Base can support creators through onchain tools and digital ownership.
+Today's learning focused on transaction confirmation and finality on Base.
 
-I learned that creators can use blockchain technology to build new types of digital experiences, including memberships, collectibles, rewards, and community-based products. Smart contracts can help creators establish transparent ownership and create more direct relationships with their audiences.
+I learned that when a transaction is submitted, it goes through different stages before becoming fully settled. Base processes transactions quickly on Layer 2, while Ethereum provides the underlying settlement and security. Understanding these stages is important when building applications that handle valuable assets or time-sensitive operations.
 
-Exploring the creator economy helped me understand that Web3 is not only about finance. Base can also provide infrastructure for artists, content creators, communities, and entrepreneurs to experiment with new ways of creating and distributing digital value.
+Learning about transaction finality helped me better understand what happens behind the scenes after a user confirms a transaction. It also showed me why developers need to consider confirmation states when designing reliable onchain applications.
 
-**#Base #BuildOnBase #CreatorEconomy #Onchain #DigitalOwnership #Web3 #100DaysOfBase**
-
+**#Base #BuildOnBase #TransactionFinality #Layer2 #Ethereum #Web3 #100DaysOfBase**
 
