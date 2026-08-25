@@ -1,10 +1,10 @@
-## Day 36 – Understanding Transaction Finality ⏱️
+## Day 37 – Understanding Data Availability 📦
 
-Today's learning focused on transaction confirmation and finality on Base.
+Today's learning focused on data availability and why it is important for Layer 2 networks like Base.
 
-I learned that when a transaction is submitted, it goes through different stages before becoming fully settled. Base processes transactions quickly on Layer 2, while Ethereum provides the underlying settlement and security. Understanding these stages is important when building applications that handle valuable assets or time-sensitive operations.
+I learned that scaling a blockchain is not only about processing transactions faster. The data required to verify and reconstruct Layer 2 activity also needs to remain available. Base relies on Ethereum for data availability and settlement, helping maintain transparency while keeping transaction costs lower than executing everything directly on Ethereum.
 
-Learning about transaction finality helped me better understand what happens behind the scenes after a user confirms a transaction. It also showed me why developers need to consider confirmation states when designing reliable onchain applications.
+Understanding data availability gave me a better idea of how different components of Layer 2 infrastructure work together. Efficient data handling is an important part of making blockchain networks scalable, reliable, and accessible.
 
-**#Base #BuildOnBase #TransactionFinality #Layer2 #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #DataAvailability #Layer2 #Ethereum #Scaling #Web3 #100DaysOfBase**
 
