@@ -1,10 +1,9 @@
-## Day 37 – Understanding Data Availability 📦
+## Day 38 – Exploring Onchain Analytics 📊
 
-Today's learning focused on data availability and why it is important for Layer 2 networks like Base.
+Today's learning focused on onchain analytics and how blockchain data can be turned into useful insights.
 
-I learned that scaling a blockchain is not only about processing transactions faster. The data required to verify and reconstruct Layer 2 activity also needs to remain available. Base relies on Ethereum for data availability and settlement, helping maintain transparency while keeping transaction costs lower than executing everything directly on Ethereum.
+I learned that onchain analytics can help track transactions, active addresses, token movements, smart contract interactions, and overall network activity. Because blockchain data is publicly available, developers and researchers can use it to build dashboards, monitor trends, and better understand how an ecosystem is growing.
 
-Understanding data availability gave me a better idea of how different components of Layer 2 infrastructure work together. Efficient data handling is an important part of making blockchain networks scalable, reliable, and accessible.
+Exploring onchain analytics helped me realize that blockchain transparency is not only about verifying transactions. It also creates a valuable source of data for research, product development, and understanding user behavior across the Base ecosystem.
 
-**#Base #BuildOnBase #DataAvailability #Layer2 #Ethereum #Scaling #Web3 #100DaysOfBase**
-
+**#Base #BuildOnBase #OnchainAnalytics #BlockchainData #Ethereum #Web3 #100DaysOfBase**
