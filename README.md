@@ -1,4 +1,4 @@
-## Day 39 – Understanding Composability on Base 🧩based
+## Day 39 – Understanding Composability on Base 🧩based soon
 
 Today's learning focused on composability and why it is one of the most powerful ideas in Web3.
 
