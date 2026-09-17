@@ -1,9 +1,9 @@
-## Day 40 – Reflecting on 40 Days of Learning Base 🚀
+## Day 41 – Exploring Wallet Security 🔐
 
-Today marks Day 40 of my 100 Days of Base journey.
+Today's learning focused on wallet security and why protecting a crypto wallet is essential in Web3.
 
-Over the past 40 days, I've explored Layer 2 technology, the OP Stack, smart contracts, wallets, bridges, DeFi, NFTs, onchain identity, infrastructure, governance, analytics, and many other parts of the Base ecosystem. Each topic has helped me understand not just how Base works, but also why scalable and accessible onchain infrastructure matters.
+I learned that wallets give users direct control over their onchain assets, which also means users are responsible for protecting their private keys and seed phrases. Avoiding suspicious links, checking transaction details carefully, and using trusted wallet practices can help reduce security risks.
 
-Reaching Day 40 feels like a milestone, but there's still a lot more to learn and build. The journey continues toward the next 60 days.
+Understanding wallet security reminded me that self-custody comes with responsibility. As the onchain ecosystem continues to grow, learning how to interact with wallets safely is just as important as learning how to use them.
 
-**#Base #BuildOnBase #Onchain #Ethereum #Web3 #100DaysOfBase**
+**#Base #BuildOnBase #WalletSecurity #Onchain #Ethereum #Web3 #100DaysOfBase**
