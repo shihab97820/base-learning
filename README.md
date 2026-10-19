@@ -1,5 +1,7 @@
-Base is more than just a Layer 2 — it’s building a new home for the onchain economy. 🔵
+Base is making onchain activity feel more natural for everyday users. 🔵
 
-From DeFi and NFTs to consumer apps and onchain culture, the ecosystem keeps growing. What makes Base exciting is how easy it makes blockchain accessible to everyone.
+From trading tokens to collecting NFTs and exploring new apps, everything is becoming easier to access.
 
-The future is being built onchain, and Base is right in the middle of it. 💙
+The real opportunity is not just in the technology, but in the people and builders creating value onchain.
+
+Still early, still building. 💙
