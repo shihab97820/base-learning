@@ -1,27 +1,22 @@
-Here’s where crypto stands today (November 6, 2026). It’s a rough day.
+Here's where crypto stands today, Sunday, November 8, 2026. The market is still weak after a rough week.
 
-Market snapshot
+**Prices**
+- Bitcoin is trading near $75,900, down about 2.7% over the week, with a market cap of roughly $1.53 trillion.
+- Ethereum is around $2,240, stabilising after a roughly 7% drop on Thursday. Bitcoin is holding just above Friday's low of $74,762.
+- Over the past 7 days, XRP is down about 7%, Solana about 6% and Hyperliquid (HYPE) about 11%. NEAR, BCH, HYPE and XLM have all had double-digit weekly losses.
 
-The total crypto market cap fell 4.9% to about $2.65 trillion. Bitcoin is down 6% to roughly $75,620, and Ethereum is down 7.8% to about $2,228. 
-coingabbar
-The Fear & Greed Index dropped from Neutral to 28 (Fear). 
-coingabbar
+**ETF outflows**
+- Spot Bitcoin ETFs saw $1.28 billion in withdrawals during the November 2–6 trading week.
+- On November 6 alone, Bitcoin ETFs lost $412M and Ethereum ETFs lost $93M, the second straight day of outflows for both.
 
-What’s driving it
+**Other headlines**
+- Russia's central bank said licensed exchanges and brokers may sell bitcoin, ether and USDT to retail investors from November 17.
+- The CLARITY Act vote looks uncertain, and the new Congress starts on January 3, 2027 with two years of divided government.
+- A Binance hack has also shifted competition among exchanges.
+- Token unlocks are scheduled today, including STABLE (about $23M) and AVAX (about $14.7M).
 
-Losses in US tech stocks spilled into crypto. The Nasdaq fell heavily on November 5, led by technology and semiconductor shares. 
-bitbase
-Spot Ethereum ETFs saw nearly $100 million in net withdrawals on November 5. 
-crypto
-The rally that followed the US midterm elections has reversed. Democrats won both the House and Senate, and commentators are debating what that means for crypto regulation. 
-fxstreet
+**What to watch next**
+- Bitcoin's weekly close relative to $75K and $77.5K.
+- Whether ETF flows turn positive. A single inflow day after about $870M of outflows would be the first sign that sellers are tiring.
 
-Levels and other movers
-
-Analysts see $2,170–$2,200 as key support for Ethereum. Today’s bounce is described as a relief move rather than a confirmed reversal. 
-crypto
-cryptonomist
-Bitcoin is heading for a fifth straight weekly loss, while Zcash (ZEC) is holding up despite the sell-off, helped by hopes around its NU7 upgrade. 
-fxstreet
-
-My second search didn’t turn up anything newer than these reports, so prices may have moved since. This isn’t financial advice, and crypto is volatile. I can dig into a specific coin or the regulation angle if you like.
+This is not financial advice, and crypto carries real risk of loss. I can go deeper on any coin or on the regulation story if you'd like.
