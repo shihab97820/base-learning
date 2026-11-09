@@ -1,22 +1,25 @@
-Here's where crypto stands today, Sunday, November 8, 2026. The market is still weak after a rough week.
+Here's the latest as of today, Monday, November 9. Last time I gave you November 6 figures and called them "today", so this version replaces that.
 
 **Prices**
-- Bitcoin is trading near $75,900, down about 2.7% over the week, with a market cap of roughly $1.53 trillion.
-- Ethereum is around $2,240, stabilising after a roughly 7% drop on Thursday. Bitcoin is holding just above Friday's low of $74,762.
-- Over the past 7 days, XRP is down about 7%, Solana about 6% and Hyperliquid (HYPE) about 11%. NEAR, BCH, HYPE and XLM have all had double-digit weekly losses.
+- Bitcoin fell to about $73,708, its lowest level since August, and Ethereum dropped roughly 5%.
+- Bitcoin has since hovered in the $74,000 to $75,000 range, and Ethereum briefly dropped below $2,100.
 
-**ETF outflows**
-- Spot Bitcoin ETFs saw $1.28 billion in withdrawals during the November 2–6 trading week.
-- On November 6 alone, Bitcoin ETFs lost $412M and Ethereum ETFs lost $93M, the second straight day of outflows for both.
+**Why the market is down**
+- The market is under pressure from worries about US crypto regulation, the Binance hack and institutional withdrawals from spot ETFs.
+- US spot Bitcoin ETFs saw about $1.28 billion in net outflows during the week of November 2–6, the largest in about four months. Ethereum ETFs lost $365.2 million that week.
+- The Democratic Party won both chambers of Congress in last week's midterms, which raised concerns about tougher crypto regulation.
+- Liquidations have topped $1 billion, mostly long positions.
+- US payrolls rose by 165,000 in October, which keeps the risk of higher interest rates in focus.
+- One source says $6 billion was reported stolen in a major theft at Binance. I only found that figure in one report, so treat it with caution until it's confirmed more widely.
 
-**Other headlines**
-- Russia's central bank said licensed exchanges and brokers may sell bitcoin, ether and USDT to retail investors from November 17.
-- The CLARITY Act vote looks uncertain, and the new Congress starts on January 3, 2027 with two years of divided government.
-- A Binance hack has also shifted competition among exchanges.
-- Token unlocks are scheduled today, including STABLE (about $23M) and AVAX (about $14.7M).
+**Regulation and industry news**
+- The SEC sent its proposed crypto broker-dealer rules to the White House for review.
+- South Korea is expected to unveil its Digital Asset Basic Act this month, shifting crypto exchanges from registration to licensing.
+- The EU has set up a crypto sanctions task force to combat sanctions evasion.
+- Compatibility risks in Ethereum's Glamsterdam upgrade have delayed the Hoodi testnet fork.
 
-**What to watch next**
-- Bitcoin's weekly close relative to $75K and $77.5K.
-- Whether ETF flows turn positive. A single inflow day after about $870M of outflows would be the first sign that sellers are tiring.
+**This week**
+- October's US CPI report comes out Tuesday and will be a key event.
+- MARA, Gemini and Bitdeer are among the crypto companies reporting earnings.
 
-This is not financial advice, and crypto carries real risk of loss. I can go deeper on any coin or on the regulation story if you'd like.
+Traders are watching whether Bitcoin can hold $75,000 in the near term. This isn't financial advice. Crypto is volatile, so please check prices on a live source before acting on them.
