@@ -1,25 +1,20 @@
-Here's the latest as of today, Monday, November 9. Last time I gave you November 6 figures and called them "today", so this version replaces that.
+Here's where crypto stands today, November 10, 2026. The market is still weak and cautious.
 
 **Prices**
-- Bitcoin fell to about $73,708, its lowest level since August, and Ethereum dropped roughly 5%.
-- Bitcoin has since hovered in the $74,000 to $75,000 range, and Ethereum briefly dropped below $2,100.
+- At 7:15 a.m. ET, Bitcoin was about $74,260 and Ethereum about $2,090.
+- Total market cap was around $2.59 trillion, with Bitcoin dominance near 57.8%.
+- Crypto lagged a strong stock rally yesterday: the S&P 500 rose 2.3% and the Nasdaq 2.7%, while BTC stayed near $75,000.
+- Fear & Greed improved slightly to 32 from 29, still in the fear zone.
 
-**Why the market is down**
-- The market is under pressure from worries about US crypto regulation, the Binance hack and institutional withdrawals from spot ETFs.
-- US spot Bitcoin ETFs saw about $1.28 billion in net outflows during the week of November 2–6, the largest in about four months. Ethereum ETFs lost $365.2 million that week.
-- The Democratic Party won both chambers of Congress in last week's midterms, which raised concerns about tougher crypto regulation.
-- Liquidations have topped $1 billion, mostly long positions.
-- US payrolls rose by 165,000 in October, which keeps the risk of higher interest rates in focus.
-- One source says $6 billion was reported stolen in a major theft at Binance. I only found that figure in one report, so treat it with caution until it's confirmed more widely.
+**Key stories**
+- **Selloff and liquidations:** Bitcoin flash-dumped toward $73,000 yesterday, wiping about $80B from the market. It also closed the week below its 50-week moving average, ending seven straight weekly closes above it. More than $462 million in liquidations hit traders on November 9.
+- **ETF outflows continue:** Spot Ethereum ETFs saw $184.5 million in net outflows on November 9. US spot Bitcoin ETFs lost a combined $842 million on November 5 and 6.
+- **BlackRock whale demand:** BlackRock reports $3.6 billion in Bitcoin-to-IBIT conversions, driven by security concerns among holders, even as the fund records outflows.
+- **Institutional buying:** Strategy bought another 1,036 BTC (about $77M). Charles Schwab added Solana, Avalanche and Chainlink trading, and PNC partnered with Coinbase for stablecoin payments. BitMine also bought another 9,587 ETH.
+- **US CPI today:** The October inflation report is due at 8:30 a.m. ET, and traders are cautious ahead of it.
 
-**Regulation and industry news**
-- The SEC sent its proposed crypto broker-dealer rules to the White House for review.
-- South Korea is expected to unveil its Digital Asset Basic Act this month, shifting crypto exchanges from registration to licensing.
-- The EU has set up a crypto sanctions task force to combat sanctions evasion.
-- Compatibility risks in Ethereum's Glamsterdam upgrade have delayed the Hoodi testnet fork.
+**Levels to watch**
+- For Bitcoin, the focus is whether $73,500 holds and whether it can reclaim $75,800.
+- For Ethereum, $2,000 is the support to watch, then the $2,150–2,240 range.
 
-**This week**
-- October's US CPI report comes out Tuesday and will be a key event.
-- MARA, Gemini and Bitdeer are among the crypto companies reporting earnings.
-
-Traders are watching whether Bitcoin can hold $75,000 in the near term. This isn't financial advice. Crypto is volatile, so please check prices on a live source before acting on them.
+This isn't financial advice, and crypto is volatile. Want me to dig into a specific coin or story?
