@@ -1,11 +1,11 @@
-# ক্রিপ্টো আপডেট: ২২ নভেম্বর ২০২৬ (রবিবার)
+# Crypto Update: November 22, 2026 (Sunday)
 
-**দাম:** বিটকয়েন প্রায় ৬০,৩০০ ডলার (২৪ ঘণ্টায় +২.৭%, সাত দিনে −৬.৯%); ২৪ ঘণ্টার সর্বনিম্ন ৫৫,১৩০ ও সর্বোচ্চ ৬০,৯৯৬ ডলার। ইথেরিয়াম প্রায় ১,৬৮৫ ডলার (২৪ ঘণ্টায় +৪.৬%), রেঞ্জ ১,৫৩৮–১,৭১৭ ডলার। রবিবার সকালে অন্য একটি সাইটে বিটকয়েন ছিল প্রায় ৫৮,৯০০ ডলার।
+**Prices:** Bitcoin is around $60,300 (+2.7% in 24h, -6.9% over 7 days), with a 24h low of $55,130 and high of $60,996. Ethereum is around $1,685 (+4.6% in 24h), ranging $1,538-$1,717. On Sunday morning another site showed Bitcoin near $58,900.
 
-**কেন নড়ল:** অক্টোবরের মূল্যস্ফীতির তথ্য প্রত্যাশার চেয়ে গরম আসায় ডিসেম্বরে ফেড সুদ বাড়ানোর সম্ভাবনা বেড়েছে (CME FedWatch অনুযায়ী প্রায় ৯৩.৫%)। একই সময়ে এআই-স্টকের বড় পতনে Nasdaq সপ্তাহে প্রায় ১০% নেমেছে, ঝুঁকিপূর্ণ সম্পদে চাপ বেড়েছে। ২৪ ঘণ্টায় প্রায় ২.৫৫ বিলিয়ন ডলারের লিকুইডেশন হয়েছে, যার প্রায় ২.২৭ বিলিয়ন ছিল লং পজিশন।
+**Why it moved:** Hotter-than-expected October inflation data raised the odds of a Fed rate hike in December (about 93.5% per CME FedWatch). At the same time, a sharp sell-off in AI stocks dragged the Nasdaq down roughly 10% for the week, pressuring risk assets. About $2.55B in liquidations hit the market over 24h, around $2.27B of it long positions.
 
-**ETF ও সেন্টিমেন্ট:** স্পট বিটকয়েন ETF থেকে ১৯ নভেম্বর প্রায় ৫৮২ মিলিয়ন এবং ২০ নভেম্বর প্রায় ১২৪ মিলিয়ন ডলার বেরিয়ে গেছে; সাত দিনে মোট বহির্গমন প্রায় ১.৬৪ বিলিয়ন ডলার। Fear & Greed ইনডেক্স ১০, অর্থাৎ "চরম ভয়"।
+**ETFs & sentiment:** US spot Bitcoin ETFs saw about $582M of outflows on Nov 19 and about $124M on Nov 20, roughly $1.64B over seven days. The Fear & Greed Index sits at 10, "extreme fear."
 
-**লক্ষ্য রাখার মতো:** সাপোর্ট ৫৫,১৩০ ডলার, তার নিচে ৫৪,৫৯২ ডলার; রেজিস্ট্যান্স ৬০,০০০ ডলার (দৈনিক ক্লোজ জরুরি)। ২৫ নভেম্বর PCE মূল্যস্ফীতি ও GDP-র দ্বিতীয় অনুমান, ২৬ নভেম্বর মার্কিন থ্যাংকসগিভিং ছুটি, ৯ ডিসেম্বর ফেডের সিদ্ধান্ত।
+**What to watch:** Support at $55,130, then $54,592; resistance at $60,000 (a daily close above it matters). Nov 25: PCE inflation and second Q3 GDP estimate. Nov 26: US Thanksgiving holiday. Dec 9: Fed decision.
 
-*সূত্র: Crypto Briefing-ভিত্তিক ২২ নভেম্বরের বাজার পোস্ট ও Sunday Guardian; বিভিন্ন সাইটে দাম কিছুটা আলাদা হয়। এটি বিনিয়োগ পরামর্শ নয়।*
+*Source: a Crypto Briefing-based market post dated Nov 22 and Sunday Guardian; prices differ slightly between sites. This is not investment advice.*
