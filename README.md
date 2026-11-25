@@ -1,11 +1,11 @@
-# Crypto Update: November 24, 2026 (Tuesday)
+# Crypto Update: November 25, 2026 (Wednesday)
 
-**Prices:** Bitcoin is near $61,300 (about flat, -0.01% in 24h) and Ethereum near $1,711 (-0.78%) as of 00:00 UTC. BTC slid toward $55,000 over the weekend, then spiked to about $64,500 on Monday before easing back toward $61,000.
+**Prices:** Bitcoin is trading near $59,100 (about -2.2% in 24h), with a daily range of roughly $58,880 to $60,700, so it has slipped back under the $60,000 mark. Ethereum is around $1,680 on a second site's rough figure (its 24h change was not available).
 
-**Why it moved:** US stocks and metals bounced hard after last week's global sell-off (Nasdaq +6.51%, S&P 500 +4.73%), helped by Nvidia's board reinstating Jensen Huang as CEO on Nov 23. The report sees Bitcoin's rebound as mostly short covering by leveraged traders rather than fresh spot buying; for example, roughly $68.8M of shorts were liquidated in one hour on Nov 21 versus $1.6M of longs. Stablecoin supply is also shrinking.
+**Why it moved:** The bounce that followed Nvidia reinstating Jensen Huang as CEO faded, buying demand stayed weak, and traders held back ahead of today's US PCE inflation and Q3 GDP releases. About $87M of positions were liquidated over 24 hours, and the weekend sell-off had already pushed realized losses to multi-year highs.
 
-**ETFs & sentiment:** US spot Bitcoin ETFs lost about $1.79B last week (a fourth straight weekly outflow), bringing November's net outflows to about $4.14B. The Coinbase premium has been negative for 60 days in a row. Fear & Greed Index: 11 (Extreme Fear).
+**ETFs & sentiment:** US spot Bitcoin ETFs saw a net outflow of about $232M on Nov 24 and about $570M on Nov 23, and November outflows are now close to record levels (reports cite roughly $4.6B to $4.7B). The Fear & Greed reading could not be retrieved today. One analyst puts the odds of a quick V-shaped recovery at under 30%.
 
-**What to watch:** Whether BTC holds $60,000; losing it could mean retests of $58,000 and $55,000, while upside needs a firm reclaim of $63,000-$65,000. Events: NY Fed's Williams speaks Nov 24, US PCE and revised Q3 GDP on Nov 25, Fed Beige Book on Nov 26, OPEC+ meeting on Nov 29.
+**What to watch:** Support sits near $58,900, then $58,500; resistance is around $59,970 (30-day average) and $60,700. Events: US PCE and revised Q3 GDP at 8:30 a.m. ET today, plus the November monthly close.
 
-*Source: KuCoin Crypto Daily Market Report (Nov 24, 2026). Prices differ slightly between sites. This is not investment advice.*
+*Sources: Finwire (Nov 25, 2026) and Why It Moved daily report (Nov 25, 2026). Prices differ slightly between sites. This is not investment advice.*
