@@ -1,11 +1,11 @@
-# Crypto Update: November 26, 2026 (Thursday)
+# Crypto Update: November 27, 2026 (Friday)
 
-**Prices:** Bitcoin was about $60,459 (+1.05% over 24h) at 00:00 UTC and near $60,800 (+2.8%) by 06:00 UTC. Ethereum was about $1,693 (+0.75% to +2.3% depending on the snapshot). BTC briefly dipped toward $57,500 before rebounding above $60,000, and it is down more than 20% in November.
+**Prices:** Bitcoin was around $61,460 (about +0.8% over 24h) in early UTC trading, with an intraday range of roughly $59,940 to $61,680. A separate report showed it near $60,730 (+4.3%) after bouncing from Thanksgiving-week lows near $57,300. Ethereum traded around $1,700 to $1,740. Bitcoin is still about 51% below its October 2025 record of $126,080.
 
-**Why it moved:** Hot October PCE inflation (3.8% headline, 3.3% core, above forecasts) strengthened bets on a December Fed hike, while tariff proposals, a stronger dollar, a firm Q3 GDP revision and AI-infrastructure credit worries weighed on risk assets. Weak spot demand and persistent ETF outflows added pressure. Overnight, prices bounced and about 92% of the top-200 coins were up. No liquidation total was given in the sources.
+**Why it moved:** No single trigger was named. The bounce looks like bargain buying and short covering after a steep November drop, in thin holiday volume with US markets shut on Thursday. Gold jumped 2.7% to about $3,662 while crypto barely moved. Roughly $172M of futures positions were liquidated in 24 hours (BTC $42.4M, ETH $41.9M, SOL $4.5M, XRP $2.6M); the sources did not say whether longs or shorts took the hit.
 
-**ETFs & sentiment:** US spot BTC ETFs saw six straight sessions of net outflows through Nov 24, roughly $4.94B for November, the largest monthly outflow since launch. Fear & Greed sits at 11 (extreme fear), down from 13.
+**ETFs & sentiment:** I could not find a Nov 27 ETF flow figure in the sources I could read. Fear & Greed is at 12 (extreme fear), up from 11 the day before.
 
-**What to watch:** Support at $57,000-$58,000 (then $55,000 and $53,000); resistance at $61,000-$62,000, then $63,000-$65,000. Today: Fed Beige Book and the Bank of Korea decision, with US markets closed for Thanksgiving. Friday brings a large options expiry that could amplify volatility.
+**What to watch:** The sources did not give Bitcoin support or resistance levels; the recent low near $57,300 and the $60,000 area are the zones traders are watching. US stocks close early at 1 p.m. ET today, and volume should stay thin into the weekend.
 
-*Source: KuCoin "Crypto Daily Market Report" (Nov 26, 2026), with price checks from CoinCodex. Prices differ slightly between sites, and this is not investment advice.*
+*Source: Why It Moved daily report and KuCoin flash news (Nov 27, 2026). Prices differ slightly between sites, and this is not investment advice.*
